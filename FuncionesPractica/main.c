@@ -1,11 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
-int numeroLegajo(int);
-int sueldoNeto(float);
-char sexo(char);
-int edad(int);
-
+#include "Funciones2.h"
 
 int main()
 {
@@ -18,12 +13,3 @@ int main()
     return 0;
 }
 
-int numeroLegajo(int numero)
-{
-    while(numero<1000 || numero>9999)
-    {
-        printf("El numero de legajo es incorrecto por favor coloquelo de nuevo");
-        scanf("%d", &numero);
-    }
-    return 0;
-}

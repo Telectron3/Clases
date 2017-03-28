@@ -1,0 +1,10 @@
+sueldo entre 1500 y 10000.
+sexo f o m.
+18 y 65 edad.
+
+cant empleados masc ganan 2000 y 7500.
+* * fem edad mayor 38.
+por fem y masc realizar en una funcion.
+total de plata que paga la fabrica.
+masc con max sueldo(mostrar legajo).
+fem con max edad(mostrar legajo y sueldo).
